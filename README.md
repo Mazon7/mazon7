@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **maximgusho7@gmail.com**
 
-- 📄 My portfolio website is currently [developed](developed)
+- 📄 My portfolio website is currently developed
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
