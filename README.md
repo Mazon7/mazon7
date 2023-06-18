@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A passionate Automation & Full Stack Developer based in Bali</h3>
+<h3 align="center">A passionate Automation & Full Stack Developer</h3>
 
 - 🔭 I’m currently working on [Covid App](https://mazon7.github.io/covid-tracker)
 
